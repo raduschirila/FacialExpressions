@@ -1,0 +1,8 @@
+﻿Expression,Eyebrow_1,Eyebrow_2,Cheekbone_1,Cheekbone_2,Mouth_corner_1,Mouth_corner_2,Menton
+neutral,0,0,0,0,0,0,0
+happy,0.1,0.1,0.5,0.5,0.3,0.3,-0.2
+sad,0.2,0.2,0,0,-0.2,-0.2,0.1
+surprise,0.1,0.1,0.1,0.1,0.2,0.2,-0.5
+fear,0.4,0.4,0.1,0.1,-0.2,-0.2,-0.2
+disgust,-0.3,-0.3,0.3,0.3,-0.3,-0.3,0.5
+anger,-0.4,-0.4,0.3,0.3,-0.3,-0.3,-0.3
